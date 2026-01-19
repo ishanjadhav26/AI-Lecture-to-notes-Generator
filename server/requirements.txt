@@ -9,3 +9,4 @@ slowapi
 pydub
 numpy
 faiss-cpu
+streamlit
